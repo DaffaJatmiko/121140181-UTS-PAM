@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">121140181_UTS_PAM</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="email">Email</string>
+
+    <string name="register">Register\n</string>
+    <string name="click_to_login">Click to Login</string>
+    <string name="click_to_register">Click to Register</string>
+    <string name="github">Github</string>
+    <string name="nim">NIM</string>
+    <string name="logout">Logout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="user_name">User Name</string>
+    <string name="email_user">Email User</string>
+    <string name="hello_world">Hello World</string>
+</resources>

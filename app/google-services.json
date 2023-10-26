@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "807848305507",
+    "project_id": "uts-login-register-firebase",
+    "storage_bucket": "uts-login-register-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807848305507:android:7428df6cf8325934dae956",
+        "android_client_info": {
+          "package_name": "com.example.a121140181_uts_pam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYrEGc_H6QjdfEP_QE7alVZP8STRh4J8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
